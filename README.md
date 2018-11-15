@@ -9,6 +9,6 @@ Commands :
 
 » cd Install-Metasploit-Auto
 
-» chmod +x Install Metasploit.sh
+» chmod +x Install-Metasploit.sh
 
-» bash Install Metasploit.sh
+» bash Install-Metasploit.sh
