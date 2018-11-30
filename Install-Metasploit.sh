@@ -72,15 +72,15 @@ echo
 echo -e $yellow
 figlet "Completed"
 echo
-echo -e $red "#############################"
-echo -e $green "# Author   : Mr.Holako      #"
-echo -e $red "#                           #"
-echo -e $green "# from     : Syria          #"
-echo -e $red "#                           #"
-echo -e $green "# WhatsApp : 00963954698951 #"
-echo -e $red "#                           #"
-echo -e $green "# Twitter  : Mr.Holako      #"
-echo -e $red "#############################"
+echo -e $red "#######################################"
+echo -e $green "# Author    : Mr.Holako               #"
+echo -e $red "#                                     #"
+echo -e $green "# from      : Syria                   #"
+echo -e $red "#                                     #"
+echo -e $green "# WhatsApp  : 00963954698951          #"
+echo -e $red "#                                     #"
+echo -e $green "# Telegram  : t.me/TH3_KINGDOM        #"
+echo -e $red "#######################################"
 echo
 cd $HOME
 cd metasploit-framework
