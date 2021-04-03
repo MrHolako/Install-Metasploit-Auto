@@ -73,7 +73,7 @@ echo -e $yellow
 figlet "Completed"
 echo
 echo -e $red "#######################################"
-echo -e $green "# Author    : Mr.Holako               #"
+echo -e $green "# Author    : BLACKDEVILH4             #"
 echo -e $red "#                                     #"
 echo -e $green "# from      : Syria                   #"
 echo -e $red "#                                     #"
